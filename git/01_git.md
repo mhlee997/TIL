@@ -105,17 +105,37 @@ $ git log --oneline -1
 
 ---
 
+로컬저장소 설정
+
 git init
+
+---
+
+이후 작업
+
 git add .
+
 git commit -m '커밋메시지'
+
+---
+
+업로드
+
+git push origin master
+
+---
+
 git log
+
 git status
 
 status 가 중요하다. GUI 와 CLI 의 차이.
 GUI 는 상태가 대부분 눈에 보인다.
 CLI 를 통해 전체 상태를 알 수 있다
 
+Ctrl + L 누르면 커맨드 라인 쭉 올라간다.
 
+rm -rf / 위험한 명령어
 
 
 
